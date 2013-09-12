@@ -22,7 +22,7 @@ var testTrialStimuli = [160, -150, 120, -50, -150, 130, -80, -10, -40, 170, -120
 // experimental conditions
 var colourCondition;
 
-// canvas cariables
+// canvas variables
 var width = 800;
 var height = 400;
 var context;
